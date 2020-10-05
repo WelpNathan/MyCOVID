@@ -9,81 +9,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4466f5f3-a01c-4002-a375-b1ee35128430" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyCOVID.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Controllers/ReportController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Data/DatabaseInitialiser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Data/ReportingContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Model/Block.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Model/ProblemDetails/InfectionValidationProblemDetail.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/MyCOVID.Services.ReportingApi.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/WeatherForecast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/MyCOVID.Services.ReportingApi/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Models/Block.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/MyCOVID.Web.WebMVC.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Services/CaseFetcher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Services/ICaseFetcher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web/MyCOVID.Web.WebMVC/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="4466f5f3-a01c-4002-a375-b1ee35128430" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601903855845</updated>
       <workItem from="1601903859251" duration="3390000" />
-      <workItem from="1601907275108" duration="9574000" />
+      <workItem from="1601907275108" duration="10457000" />
     </task>
     <servers />
   </component>
