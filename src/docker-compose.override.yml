@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  service-reporting:
+    ports:
+      - '8080:80'
+    environment:
+      - 'ASPNETCORE_ENVIRONMENT=Development'
+
+  web-mvc:
+    ports:
+      - '8081:80'
+    environment:
+      - 'ASPNETCORE_ENVIRONMENT=Development'

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Current Cases";
+}
+
+<div class="text-center">
+  <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Block</th>
+          <th scope="col">Infections</th>
+        </tr>
+      </thead>
+      <tbody>
+      @foreach (Block block in ViewBag.Blocks)
+      {
+          <tr>
+              <td>@block.Id</td>
+              <td>@block.Numbers</td>
+          </tr>
+      }
+      </tbody>
+    </table>
+</div>

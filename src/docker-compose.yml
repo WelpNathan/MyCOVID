@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  service-reporting:
+    hostname: service-reporting
+    container_name: service-reporting
+    build:
+      context: Services/MyCOVID.Services.ReportingApi
+      
+  web-mvc:
+    hostname: web-mvc
+    container_name: web-mvc
+    build:
+      context: Web/MyCOVID.Web.WebMVC
